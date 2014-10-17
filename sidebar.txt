@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[poy:home|Door43 (poy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-poy|d43-poy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-poy/archive/master.zip|d43-poy.zip]]
+
+**Recent Changes**
+{{changes>ns = poy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/poy|Ethnologue data]]
+
